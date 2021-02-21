@@ -1,0 +1,25 @@
+.details-taable{
+    border: 2px solid rgb(255, 0, 0);
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+#about{
+        background-color: rgb(238, 255, 0);
+        color: rgb(0, 0, 0);
+}
+#skills{
+    background-color: aqua;
+    color: darkorange;
+}
+#education{
+    background-color: rgb(161, 224, 58);
+    color: rgb(235, 61, 8);
+}
+#awards{background-color: red;
+color: seashell;
+}
+#footer{
+    background-color: black;
+    color: red;
+}
